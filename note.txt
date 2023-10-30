@@ -1,0 +1,20 @@
+  JSON Server Creation in Node
+--------------------------------
+
+-install node server     : npm init
+-install json server      : npm i json-server
+
+
+nodemon  -  it provides automatic recompilation (its a server)  //important
+
+ middlewares
+-------------
+
+middlewares have the ability to control all server request in a server 
+  - if we apply middlewares in server, the middlewares will work before the request
+
+
+ cors - cross origin resource sharing
+---------------------------------------
+
+connect front-end with node server  -  npm i cors
